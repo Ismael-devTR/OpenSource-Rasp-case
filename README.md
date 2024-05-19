@@ -20,7 +20,7 @@ To get started, you'll need the following:
 - A 3D printer (or access to one)
 - 3D printing filament (PLA, ABS, PETG, etc.)
 - Raspberry Pi 5
-- Basic tools (screwdriver, screws, etc.)
+- Basic tools (screwdriver, screws "M2 X 8", etc.)
 
 ### Downloading the Files
 
